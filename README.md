@@ -1,6 +1,6 @@
 # 📡 Digital Communication System
 
-Simulation of PCM and DPCM digital communication systems with TCP/IP client-server transmission using MATLAB.
+An interactive MATLAB-based system for simulating PCM and DPCM digital communication with TCP/IP client-server architecture.
 
 ---
 
