@@ -59,6 +59,20 @@ It also demonstrates data transmission using a TCP/IP client-server model implem
 5. Start client and server communication
 
 ---
+## 📸 Preview
+
+### Main Interface
+![Main Interface](main.png)
+
+### Client Interface
+![Client Interface](Client.png)
+
+### Server Interface
+![Server Interface](server.png)
+
+### Example Result
+![Example Result](result.png)
+
 
 ## 📄 Notes
 
