@@ -63,3 +63,8 @@ It also demonstrates data transmission using a TCP/IP client-server model implem
 ## 📄 Notes
 
 This project was developed as part of a university course in Digital Communication Systems.
+
+## ⚠️ Limitations
+
+- The system works correctly but may produce slight inaccuracies in some signal reconstructions.
+- Further optimization can improve performance and accuracy.
